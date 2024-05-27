@@ -1,7 +1,4 @@
-#! usr/bin/python3
-# -*- coding: utf-8 -*-
-#
-# Flicket - copyright Paul Bourne: evereux@gmail.com
+
 
 from application import app
 from application.flicket_admin.models.flicket_config import FlicketConfig

@@ -1,7 +1,4 @@
-#! usr/bin/python3
-# -*- coding: utf-8 -*-
-#
-# Flicket - copyright Paul Bourne: evereux@gmail.co
+
 
 from flask import render_template, redirect, request, url_for
 from flask_babel import gettext

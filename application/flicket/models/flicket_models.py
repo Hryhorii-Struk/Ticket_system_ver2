@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 #
 # Flicket - copyright Paul Bourne: evereux@gmail.com
-
 import datetime
 
 from flask import url_for, g

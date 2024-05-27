@@ -1,7 +1,4 @@
-#! usr/bin/python3
-# -*- coding: utf8 -*-
-#
-# Flicket - copyright Paul Bourne: evereux@gmail.com
+
 
 from flask_babel import lazy_gettext
 from flask_wtf import FlaskForm

@@ -1,16 +1,13 @@
-Flicket
+Ticket System
 =======
 
-Flicket is a simple web based ticketing system written in Python using
+Ticket System is a simple web based ticketing system written in Python using
 the flask web framework which supports English and French locales. Additional
 locales can be added by following the section `Adding Additional Languages`
 within this README.
 
 
-Documentation
--------------
 
-For documentation and screenshots please visit: https://flicket.readthedocs.io/en/latest/
 
 
 Upgrading From Earlier Versions
@@ -21,7 +18,6 @@ See the changelog for changes and additional steps to take when upgrading.
 
 Requirements
 ------------
-Prior to installing and running Flicket please read these requirements.
 
 * Python =>3.90
 
@@ -32,6 +28,6 @@ Prior to installing and running Flicket please read these requirements.
 Production Environment
 ----------------------
 
-To serve Flicket within a production environment webservers such as Apache
+To serve Ticket_systek within a production environment webservers such as Apache
 or nginx are typically used. See the documentation for how to install Apache
 on Windows.

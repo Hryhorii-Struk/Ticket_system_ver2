@@ -28,6 +28,6 @@ Requirements
 Production Environment
 ----------------------
 
-To serve Ticket_systek within a production environment webservers such as Apache
+To serve Ticket_system within a production environment webservers such as Apache
 or nginx are typically used. See the documentation for how to install Apache
 on Windows.
